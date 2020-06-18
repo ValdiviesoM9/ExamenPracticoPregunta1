@@ -1,5 +1,8 @@
 p{
   color:blue;
+  -webkit-box-shadow: -47px 6px 42px 50px rgba(0,0,0,0.75);
+  -moz-box-shadow: -47px 6px 42px 50px rgba(0,0,0,0.75);
+  box-shadow: -47px 6px 42px 50px rgba(0,0,0,0.75);
   }
 h1{
   color:blueviolet;
